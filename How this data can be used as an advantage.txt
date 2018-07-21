@@ -1,0 +1,5 @@
+As we can see from the results, the calorie count of 96.1% of our competitors have a calorie count more than ours.
+
+We have about 60 calories per serving. The median calorie count of our different competitors is about 110 calories and the average amount of calories is 106.88. That is 46.88 calories more than Cruchie's.
+
+Also, the standard deviation in the data of all the competitors is quite low (about 19.36 calories to be exact). So our cereal has lower calories per serving which helps maintaining the calorie intake.
